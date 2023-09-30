@@ -7,6 +7,7 @@ Es un virus destructivo indetectable capas de formatear todas la unidades de dis
 </p>
 
 ## USO
+
 Crearemos un archivo de texto y copiaremos el siguiente código.
 
 ```bat
